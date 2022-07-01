@@ -6,7 +6,7 @@ const Header = () => {
     <header className="flex justify-between ">
       <div className="flex items-center">
         <img className="w-16" src={pizza} alt="icon" />
-        <p className="text-[#00240F] font-medium text-[18px]">Pizza Time</p>
+        <p className="text-[#00240F] font-medium text-[20px]">Pizza Time</p>
       </div>
       <div className="flex items-center">
         <p className="text-[red] text-base font-medium">Home</p>

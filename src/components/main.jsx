@@ -2,7 +2,7 @@ import fri from "../image/fri.png";
 
 const Main = () => {
   return (
-    <div className="flex py-4  justify-between">
+    <div className="flex pl-6  justify-between">
       <div className="pt-20">
         <p className="text-[#00240F] font-bold text-[72px]">Friday Pizza</p>
         <p className="text-[#00240F] font-medium text-[36px]">
